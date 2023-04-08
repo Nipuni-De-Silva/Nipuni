@@ -1,2 +1,1 @@
-# Nipuni
-My Personal Repository
+Hi there 👋, I'm Nipuni 👩‍💻
